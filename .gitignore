@@ -1,0 +1,21 @@
+# Arquivos do Docker (não precisam ir pro GitHub Pages)
+Dockerfile
+docker-compose.yml
+nginx.conf
+.dockerignore
+
+# Scripts e arquivos de desenvolvimento
+start.sh
+teste.html
+teste-simples.html
+*.backup
+
+# Logs e temporários
+logs/
+*.log
+.DS_Store
+Thumbs.db
+
+# Tutorial (manter local)
+TUTORIAL_GITHUB.md
+README.md
